@@ -17,4 +17,4 @@
 
 - [kisskissbankbank](https://www.kisskissbankbank.com/fr/users/stephane_jeandeaux)
 - [Indiegogo](https://www.indiegogo.com/individuals/4350767)
-- [kickstarter](https://www.kickstarter.com/profile/2047512113)
+- [kickstarter](https://www.kickstarter.com/profile/sjeandeaux)
