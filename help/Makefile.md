@@ -12,3 +12,6 @@ goal1: ## goal1 the goal#
 goal2: goal1 ## goal2 the goal#
   echo goal2
 ```
+
+
+[home](../README.md)
