@@ -8,6 +8,12 @@
 - [Twitter](https://twitter.com/sjeandea)
 - [Google+](https://plus.google.com/u/0/+St%C3%A9phaneJeandeaux)
 
+## Hobbies 
+
+- [Github](https://github.com/sjeandeaux/)
+- [Gitlab](https://gitlab.com/stephane-jeandeaux)
+- [Stackoverflow](https://stackoverflow.com/users/4198317/st%C3%A9phane-jeandeaux)
+
 ## Sport
 
 - [Strava](https://www.strava.com/athletes/19399867)
