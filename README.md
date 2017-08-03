@@ -27,6 +27,6 @@
 - [Indiegogo](https://www.indiegogo.com/individuals/4350767)
 - [kickstarter](https://www.kickstarter.com/profile/sjeandeaux)
 
-## Help
+## Help for me (for you too)
 
-- [Makefile](help/Makefile.md)
+- [Makefile with help](help/Makefile.md)
