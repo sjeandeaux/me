@@ -18,6 +18,8 @@
 
 - [Strava](https://www.strava.com/athletes/19399867)
 - [Polar Flow](https://flow.polar.com/training/profiles/4387515)
+- [Movescount](http://www.movescount.com/members/member1797666-sjeandeaux)
+
 
 ## Crowdfunding
 
