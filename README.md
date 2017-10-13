@@ -1,5 +1,10 @@
 # Links
 
+## Projects
+
+- [nexus-cli](https://github.com/sjeandeaux/nexus-cli)
+- [ci-docker-compose](https://github.com/sjeandeaux/ci-docker-compose)
+
 ## Social Networks
 
 - [Linkedin](https://www.linkedin.com/in/stephanejeandeaux)
