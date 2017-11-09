@@ -1,5 +1,7 @@
 # Links
 
+```Artist and Humorist of the code```
+
 ## Projects
 
 - [nexus-cli](https://github.com/sjeandeaux/nexus-cli)
