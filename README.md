@@ -6,8 +6,7 @@
 
 ## Projects
 
-- [nexus-cli](https://github.com/sjeandeaux/nexus-cli)
-- [ci-docker-compose](https://github.com/sjeandeaux/ci-docker-compose)
+- [github](https://github.com/sjeandeaux?tab=repositories)
 
 ## Social Networks
 
