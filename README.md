@@ -12,6 +12,7 @@
 - [Strava](https://www.strava.com/athletes/19399867)
 - [Github](https://github.com/sjeandeaux/)
 - [Gitlab](https://gitlab.com/stephane-jeandeaux)
+- [application-aws-encryptor](https://bitbucket.org/fxadmin/fxinnovation-common-application-aws-encryptor/src/master/)
 - [Stackoverflow](https://stackoverflow.com/users/4198317/st%C3%A9phane-jeandeaux)
 - [kisskissbankbank](https://www.kisskissbankbank.com/fr/users/stephane_jeandeaux)
 - [Indiegogo](https://www.indiegogo.com/individuals/4350767)
