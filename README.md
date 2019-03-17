@@ -27,4 +27,4 @@
 - [test-kitchen](https://github.com/test-kitchen/test-kitchen)
 - [google/uuid](https://github.com/google/uuid)
 - [application-aws-encryptor](https://bitbucket.org/fxadmin/fxinnovation-common-application-aws-encryptor/src/master/)
-- [github repositories]https://github.com/sjeandeaux?utf8=%E2%9C%93&tab=repositories&q=&type=source&language=)
+- [github repositories](https://github.com/sjeandeaux?utf8=%E2%9C%93&tab=repositories&q=&type=source&language=)
