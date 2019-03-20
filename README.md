@@ -17,8 +17,9 @@
 - [Indiegogo](https://www.indiegogo.com/individuals/4350767)
 - [kickstarter](https://www.kickstarter.com/profile/sjeandeaux)
 
-## Projects
+## Projects with my commits
 
+- [docker/cli](https://github.com/docker/cli)
 - [puppet-sonarqube](https://github.com/maestrodev/puppet-sonarqube)
 - [scredis](https://github.com/Livestream/scredis)
 - [sbt-native-packager](https://github.com/sbt/sbt-native-packager)
