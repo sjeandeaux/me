@@ -1,6 +1,6 @@
 # Description
 
-```Artist and Humorist of code```
+```I am developer```
 
 ## Links
 
