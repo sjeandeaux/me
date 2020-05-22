@@ -8,7 +8,6 @@
 - [Facebook](https://www.facebook.com/stephane.jeandeaux)
 - [Instagram](https://www.instagram.com/stephanejeandeaux/)
 - [Twitter](https://twitter.com/sjeandea)
-- [Strava](https://www.strava.com/athletes/19399867)
 - [Github](https://github.com/sjeandeaux/)
 - [Gitlab](https://gitlab.com/stephane-jeandeaux)
 - [Stackoverflow](https://stackoverflow.com/users/4198317/st%C3%A9phane-jeandeaux)
