@@ -1,6 +1,8 @@
-# Description
+# Tilelli - Stephane Jeandeaux
 
-```I am a developer```
+10+ years of work experience as a Senior Software Engineer in various domains.
+Experienced with the latest cutting-edge development tools and processes.
+Proficient at designing, implementing and automating core tasks from backend coding to front-end design.
 
 ## Links
 
