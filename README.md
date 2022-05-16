@@ -27,3 +27,4 @@ Proficient at designing, implementing and automating core tasks from backend cod
 - [google/uuid](https://github.com/google/uuid)
 - [application-aws-encryptor](https://bitbucket.org/fxadmin/fxinnovation-common-application-aws-encryptor/src/master/)
 - [github repositories](https://github.com/sjeandeaux?utf8=%E2%9C%93&tab=repositories&q=&type=source&language=)
+- [rimusz/charts](https://github.com/rimusz/charts)
