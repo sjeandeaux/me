@@ -7,7 +7,6 @@ Proficient at designing, implementing and automating core tasks from backend cod
 ## Links
 
 - [Linkedin](https://www.linkedin.com/in/stephanejeandeaux)
-- [Twitter](https://twitter.com/sjeandea)
 - [Github](https://github.com/sjeandeaux/)
 - [Gitlab](https://gitlab.com/stephane-jeandeaux)
 - [Stackoverflow](https://stackoverflow.com/users/4198317/st%C3%A9phane-jeandeaux)
